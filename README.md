@@ -25,14 +25,16 @@
 
 ---
 
-## 📋 Índice
+## 📋 Contenido
 
-- [Requisitos previos](#-requisitos-previos)
-- [Instalación en Termux](#-instalación-en-termux)
-- [Configuración inicial](#-configuración-inicial)
-- [Apoyo al proyecto](#-apoyo-al-proyecto)
-- [Comunidad](#-comunidad)
-- [Créditos](#-créditos)
+| Sección | Descripción |
+| :--- | :--- |
+| 📦 [Requisitos](#-requisitos-previos) | Herramientas necesarias para comenzar. |
+| 🚀 [Instalación](#-instalación-ejemplo-para-termux) | Guía de despliegue paso a paso. |
+| ⚙️ [Configuración](#-configuración-inicial) | Ajustes iniciales y personalización. |
+| ⭐ [Soporte](#-apoyo-al-proyecto) | Cómo apoyar el desarrollo del proyecto. |
+| 💬 [Comunidad](#-comunidad) | Enlaces a grupos y canales oficiales. |
+| 👤 [Créditos](#-créditos) | Información sobre el autor. |
 
 ---
 
@@ -40,7 +42,7 @@
 
 | Herramienta | Descripción |
 |-------------|-------------|
-| **Entorno de Terminal** | Un emulador de terminal (como Termux para Android) o un entorno de línea de comandos en tu sistema operativo. |
+| <img src="https://img.shields.io/badge/Termux-000000?style=flat-square&logo=gnometerminal&logoColor=00ffe0"/> | Emulador de terminal para Android (o cualquier terminal en tu SO). |
 | <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> | Entorno de ejecución JS. Se recomienda una versión moderna (≥18). |
 | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> | Sistema de control de versiones para clonar el repo. |
 | <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white"/> | Necesario para stickers, conversiones y todo lo multimedia. |
