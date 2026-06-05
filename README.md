@@ -29,7 +29,7 @@
 
 | Herramienta | Descripción |
 |-------------|-------------|
-| <img src="https://img.shields.io/badge/Termux-000000?style=flat-square&logo=gnometerminal&logoColor=00ffe0"/> | Emulador de terminal para Android (o cualquier terminal en tu SO). |
+| <img src="https://img.shields.io/badge/Termux-000000?style=flat-square&logo=gnometerminal&logoColor=00ffe0"/> | Emulador de terminal para Android (Se recomienda instalar desde F-Droid). |
 | <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> | Entorno de ejecución JS. Se recomienda una versión moderna (≥18). |
 | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> | Sistema de control de versiones para clonar el repo. |
 | <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white"/> | Necesario para stickers, conversiones y todo lo multimedia. |
