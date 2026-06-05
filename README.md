@@ -23,7 +23,7 @@ Siga los siguientes pasos para configurar y ejecutar el bot en su dispositivo An
 
 2.  **Clonación del repositorio de la base:**
     ```bash
-    git clone https://github.com/Axelixx09/zenbot-base.git
+    git clone https://github.com/Axelix09/zenbot-base.git
     cd zenbot-base
     ```
     *(Nota: Asegúrese de utilizar la URL correcta del repositorio si esta difiere.)*
