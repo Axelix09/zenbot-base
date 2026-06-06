@@ -1,7 +1,7 @@
 {
-  "name": "zenbot-base",
+  "name": "dylanbot-base",
   "version": "1.0.0",
-  "description": "ZΞN-BOT — Base para comunidad",
+  "description": "DYLANBOT — Base para comunidad",
   "type": "module",
   "main": "zen.js",
   "scripts": {

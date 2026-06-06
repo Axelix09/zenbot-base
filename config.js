@@ -1,9 +1,9 @@
 const config = {
-  botName: 'ZΞN-BOT',
-  ownerName: 'AXELDEV09',
+  botName: 'DYLANBOT',
+  ownerName: 'DYLANXIT',
   version: '1.0.0',
   prefix: /^[.#/!]/,
-  ownerNumber: ['549XXXXXXXXXX'],  // ← Cambia por tu número
+  ownerNumber: ['244919001068'],  // ← Cambia por tu número
   MODE: 'public',
   usePairingCode: true,
   antiSpam: {
@@ -12,9 +12,9 @@ const config = {
     ventanaMs: 8000,
     muteMs: 15000,
   },
-  groupLink: 'https://whatsapp.com/channel/XXXXXXXX',  // ← Cambia por tu canal
-  packname: 'ZΞN-BOT',
-  author: 'AXELDEV09',
+  groupLink: 'https://t.me/LDLuminexVIP',  // ← Cambia por tu canal
+  packname: 'DYLANBOT',
+  author: 'DYLANXIT',
 }
 
 export default config
